@@ -2,13 +2,12 @@
 
 > Utiliza Docker para executar uma instância do RabbitMQ e bibliotecas em Python para enviar e receber mensagens
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 
 ## 💻 Pré-requisitos
 
-Python 3.10 (testado nesta versão)
-Docker 
+- Python 3.10 (testado nesta versão)
+- Docker 
 
 ## 🚀 Preparando ambiente para execução
 
@@ -44,3 +43,5 @@ python recebe.py
 python envia.py
 
 ```
+
+<img src="https://github.com/cesssar/RabbitMQ_Python/blob/main/Screenshot.png" />
